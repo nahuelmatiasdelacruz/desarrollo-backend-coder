@@ -1,0 +1,1 @@
+[{"id":2,"title":"Placa de video","desc":"RTX 3070 ti","price":51623,"thumbnail":"image.jpg","stock":15},{"id":3,"title":"Monitor","desc":"ASUS 144hz","price":2139,"thumbnail":"image.jpg","stock":6},{"id":4,"title":"Teclado","desc":"Mecanico ASUS","price":153363,"thumbnail":"image.jpg","stock":1}]
